@@ -6,6 +6,13 @@ Only those who possess quick thinking and can program on-the-spot will emerge vi
 
 ---
 ## Rules & Regulations
+
+#### EVENT SUMMARY:
+A bot is placed in the far corner of the of a large, randomly drawn maze. Junctions are similar to standard
+mazes-dead ends, T-intersections, right and left-hand turns, etc. The central area is positioned in such a way
+that left-turn only or right turn only can never reach it. The goal is to reach the center of the maze in the
+fastest possible, across several attempts.
+
 #### Robot Rules:
 1. The bot must be autonomous and should not be controlled manually, and only one bot per team must be
 used.
