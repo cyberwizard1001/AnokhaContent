@@ -1,60 +1,55 @@
 # Maze Runner
 ## Description
-Do you have what it takes to be the ultimate Maze Runner? This thrilling event challenges you to build and program a line follower robot capable of navigating through both a 3D maze and a colour-coded maze.
+Do you have what it takes to be the ultimate Maze Runner? This thrilling event challenges you to build and program a line follower robot capable of navigating through both a 3D maze.
 
 Only those who possess quick thinking and can program on-the-spot will emerge victorious.  Whether you're a seasoned programmer or a beginner, the Maze Runner event is the perfect opportunity to push your limits and challenge yourself. So, what are you waiting for? Enrol now and let the race begin!
 
 ---
 ## Rules & Regulations
-A bot is placed in the far corner of the of a large, randomly drawn maze. Junctions are similar to  standard  mazes, dead ends, T-intersections, right and left-hand turns, etc. The central area is positioned  in  such  a  way  that  left turn only or right turn only can never reach it. The goal is to reach the centre of the maze  in  the  fastest possible, across several attempts.
-
-Round 1: Maze Follower
--   In this round, participants must design a robot or instrument capable of navigating the maze and reaching the end point.    
--   Each team will be given 3 minutes to view the maze and take a trial ride.    
--   The maze dimensions are 6 meters in length and 4.8 meters in width, with both the track and walls painted white. A thin black line with a thickness of 3cm runs through the middle of the track.    
--   Sensors will be used to track the maze and guide the robot's movements.    
--   Each team will have a maximum of 10 minutes to complete the challenge.    
--   The evaluation criteria will be based on the time taken to complete the maze and any manual interruptions made by the team. The top-performing teams will be selected to advance to the second round.
-    
-
-Round 2: Line Follower
-    
--   In this round, participants must design a robot or instrument capable of navigating the maze and reaching the end point.    
--   The robot must follow a black line with a width of 2.5  cm painted on the track.    
--   At the end of each junction, a different colour will be painted, and the robot must move accordingly based on the colour specification provided in advance.    
--   The evaluation criteria will be based on the time taken and accuracy of the robot's movements. The robot must follow the line and reach the destination.
-
-RULES FOR THE BOT:
-
-1. The bot must be autonomous and should not be controlled manually, and only one bot per team  must  be  used.
+#### Robot Rules:
+1. The bot must be autonomous and should not be controlled manually, and only one bot per team must be
+used.
 2. Dimension of the bot should be less than [20 cm * 20 cm], [width*length].
-3. The participant should ensure that the room light, temperature, photography, etc. does not affect  the  function of the sensors.
-4. Each team must use only a bot and they will be given enough time for configuring the bot after every  round. No extra time will be given for any team.
-5. Each team will be given only 2 chances in case of any misleading of track by the bot or adjustments  required  with some penalty in total score each time.
-6. Power supply should be on-board and maximum voltage between any two point on circuit at anygiventime should not exceed 12V DC, 1.5A.
+3. The participant should ensure that the room light, temperature, photography, etc. does not affects the
+function of the sensors.
+4. Each team must use only bot and they will be given enough time for configuring the bot and no extra
+time will be for any team.
+5. Each team will be given only 2 chances in case of any misleading of track by bot or adjustments required
+with some penalty in total score each time.
+6. Power supply should be on-board and maximum voltage between any two point on circuit at any given
+time should not exceed 12V DC, 1.5A.
 7. Maximum of 4 sensors can be used on the bot.
 
-ARENA SPECIFICATIONS:
-
-1. The platform for the maze will be wood charted, white in colour and side of the maze walls are black  charted.
+#### ARENA SPECIFICATIONS:
+1. The platform for the maze will be wood charted white in color and side of the maze walls are black
+charted.
 2. The destination (center) of the maze will have only one entrance.
 3. All the tracks will be shown only at the time of the competition.
 4. The organizers reserve the right to change any of the rules at any time.
-
 RULES:
-
 1. The bot is not allocated any time to access the maze prior to their first run.
 2. Contestant have 10 minutes total to complete as many as runs they wish.
-3. Any time included to adjust a bot between runs is included in the 10 minutes.
-4. Each run (from the start cell to the center zone) in which a bot successfully reaches the destination  square  is given a run time.
-5. The minimum run time shall be the bots’ official time.
-6. First prize goes to the bot with the shortest official time, second prize to the next shortest, and  so  on.
-7. Note the 10-minutes time continues even between runs. Bots that do not enter the centre  square  will  be  ranked by the maximum number of cells they consecutively transverse without being touched.
-8. All bots who enter the center square within their 10 minutes allotment are ranked higher thanthosewhodonot enter the center square.
-9. If a robot is in mid-run when the ten minutes total time elapses, that attempt is finished anddoesnot  count.if no bot (or less than 3) finishes their runs in under ten minutes, ranking will be determined  bythesolediscretion of the judges.
-10. Robot that do not enter the center square will be ranked by the maximum number of cells theyconsecutively transverse without being touched.
-11. However, the judges are not required to give any rankings to robots who do not finish, andmanydeclareno winner or declare less than winners at their discretion.
+3.  The run time will start when front edge of the robot crosses the start line and stops when front edge of
+the robot crosses the finish line.
+4. Each run (from the start cell to the center zone) in which a bot successfully reaches the destination square
+is given a run time.
+5. The minimum run time shall be the bots official time.
+6. First prize goes to the bot with the shortest official time, second prize to the next shortest, and so on.
+7. Note, the 10-minutes time continues even between runs. Bots that do not enter the center square will be
+ranked by the maximum number of cells they consecutively transverse without being touched.
+8.All bots who enter the center square within their 10 minutes allotment are ranked higher than those who do
+not enter the center square.
+9.If a robot is in mid-run when the ten minutes total time elapses, that attempt is finished and does not count.
+if no bot (or less than 3) finishes their runs in under ten minutes, ranking will be determined by the sole
+discretion of the judges.
+10. Robot that do not enter the center square will be ranked by the maximum number of cells they
+consecutively transverse without being touched.
+11. However, the judges are not required to give any rankings to robots who do not finish, and may declare
+no winner or declare less than 3 winners at their discretion.
 12. After the maze is disclosed, the operators shall not feed information’s on the maze into the bot.
-13. The run time will start when front edge of the robot crosses the start line and stops when front edgeofthe robot crosses the finish line.
-14. All bot must be presented to the event by the original design team, which must meet all other qualifications.
-15. The decision of the event coordinators will be final, any dispute will lead to direct disqualification.
+13. Any time used to adjust a bot between runs is included in the 10 minutes.
+14. All bot must be presented to the event by the original design team, which must meet all other
+qualifications.
+15. The decision of the event coordinators will be final, any dispute will lead to direct disqualification
+
+Time : 10 am to 4 pm
