@@ -6,10 +6,11 @@ Whether you're a seasoned player or a new recruit, this event is sure to leave y
 
 ### Instructions to Participants
 
-- Use of third-party applications and cheating will result in disqualification.
-- All the participants are required to strictly adhere to the timings mentioned before the event.
-- In any unforeseen situations judgement of the organizing faculty will be final.
-- Participants are required to bring their own mobile phones and chargers to play the game.
+1. Participants are required to bring their own mobile phones and chargers to play the game 
+2. The game consists of three rounds – Mirror battle, Draft battle, and triple draft battle. Player who wins at least two rounds wins the game. 
+3. Use of third-party applications (APK’s) and hacks will result in disqualification of the participant. 
+4. All the participants will be playing in the same clan and the details of the clan would be revealed before the event day. 
+5. Participants are requested to download the latest version of Clash Royale by Supercell. In case of any disputes, the decision by the organisers will be final.
 
 Venue :
 - Block : AB3
