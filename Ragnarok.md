@@ -1,13 +1,16 @@
-# Ragnarok
+# Ragnarok (Clash Royale)
 
-Experience the ultimate thrill of competitive gaming with our Valorant and Clash Royale event - the only gaming tournament at Anokha that lets you showcase your skills and compete against other passionate gamers!
+Join the ultimate clash of champions at our upcoming Clash Royale gaming event! With non-stop action, heart-pumping battles, and epic prizes up for grabs, this is the event that mobile gaming fans have been waiting for.
 
-With our friendly yet challenging environment, you'll be able to unleash your full potential and show everyone what you're made of. Whether you're a seasoned gamer or a newbie looking to improve your skills, our Valorant and Clash Royale event is the perfect platform to meet like-minded players, hone your gaming abilities, and take your gameplay to the next level. Join us for an unforgettable gaming experience that you won't find anywhere else!
+Whether you're a seasoned player or a new recruit, this event is sure to leave you on the edge of your seat and wanting more. So what are you waiting for? Join the Clash Royale revolution and clash your way to victory at our upcoming gaming event!
 
 ### Instructions to Participants
 
-- Use of third-party applications (Discord and Team-speak are exceptions) and cheating will result in team disqualification.
+- Use of third-party applications and cheating will result in disqualification.
 - All the participants are required to strictly adhere to the timings mentioned before the event.
-- Teams are allowed to have one substitute in case of failure of participation of one of the team members.
 - In any unforeseen situations judgement of the organizing faculty will be final.
-- Participants are required to bring their own Laptops to play the game (Internet connections will be provided).
+- Participants are required to bring their own mobile phones and chargers to play the game.
+
+Venue :
+- Block : AB3
+- Room: A104
