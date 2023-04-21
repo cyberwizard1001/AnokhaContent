@@ -14,6 +14,40 @@ For those outside the large community of ROS, ROS provides libraries and tools f
 
 This workshop is being conducted by Anya Robotics, who are working to create robots that enrich people’s lives, approximating the mobility, dexterity, and agility of humans. With a focus on curiosity and respect for the natural world, they aim to build machines that reduce the danger, repetition, and physical difficulty of work.
 
+## Agenda
+ Day-1
+* Introduction to ROS: 
+    * An architectural overview of the Robot Operating System Framework
+* Packages & Catkin workspaces:
+    
+    * ROS workspace structure
+    * Essential command line utilities
+    * Software Package management within a project
+* Understanding fundamentals of ROS using turtlesim
+* Learning basic ROS tools with turtlebot simulation
+* Overview of a ROS based robot
+* Understanding Unified Robot Description Format (URDF) of a robot
+* RViz Basics
+* Debugging in ROS - Transform Frames
+* Extending a robot Creation - Launch Files
+* Q&A session
+
+Day-2
+* Gazebo Basics
+    * Exploring Gazebo User Interface
+    * Writing Launch files using prebuilt gazebo worlds
+    * Intro to Gazebo plugins
+* Teleoperating the modeled robot in gazebo world
+* General information about the many types of sensors that are used in robotics systems including
+cameras, IMU, encoders, and more.
+* A brief tour of 3D sensors used in robotics
+* Intro to the localization concept
+* Intro to the Mapping and SLAM concepts
+* Intro to Path planning and Navigation
+* Teleoperating turtlebot in real world
+* Implementing Localization, Mapping, and Navigation on turtlebot
+* Q&A session
+
 ## Rules and Regulations:
 
 -   Registered candidates should be on time.
