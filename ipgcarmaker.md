@@ -1,0 +1,32 @@
+# Vehicle Simulation using IPG Carmaker by IPG Automotive 
+
+## Speaker(s)
+* Chinmay Sharma (Application and Service Engineer in IPG automotive) 
+
+* Ganesamoorthy (Application and Service Engineer in IPG automotive) 
+
+## Date
+28/04/2023
+
+## Event Description
+Calling all vehicle enthusiasts! The Department of Mechanical Engineering brings to you a Vehicle Simulation Workshop by IPG CarMaker. CarMaker, a software flagship for the German company IPG, is designed for the development and seamless testing of cars and light-duty vehicles in all development stages.  
+
+Join our team to hone your motor skills and learn more about vehicle dynamics, power train systems, and simulation software tools for the design, virtual testing, and optimization of vehicle systems. 
+
+## Agenda
+Participants will get to know how the simulation of race cars is made on tracks and what all values can be obtained for calculating from the desired inputs. There will be a doubt clarification session for the participants. 
+
+* The workshop consists of 2 sessions (9 -12 AM and 1:30-4 PM): After the 1st session, they will be given a break for an hour, followed by the second session 
+
+## Rules and Regulations
+* Participants are requested to sit in same place as where they were sitting in first session. 
+* Students must use the infrastructure (i.e. desktops) properly without causing any damages. 
+* Students are requested to get their own water bottles. 
+
+## Benefits and Takeaways
+* Benefits- Participants will know how to perform simulations of vehicles and know their performance metrics like top speeds, gear ratios, etc. 
+
+* Takeaways- A certificate conveying that they have successfully participated and completed the workshop held by IPG automotive group. 
+
+## Price
+Rs. 1062/-
