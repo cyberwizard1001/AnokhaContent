@@ -6,12 +6,20 @@ The clock is ticking, so gather your wits, put on your thinking cap, and get rea
 
 ---
 ## Rules & Regulations
--   3 members in a team.    
--   Every team should have their own unique team’s name.    
--   This is a Single Round event.
--   Reporting place and time for the event and for spot registration:
--   Place: Main Checkpoint (CYBER LAB)    
--   Time: **09:00 AM -09:30 AM**.
--   Code of Conduct will be issued to all the teams during the event.
--   Violating the Code of Conduct will be charged under malpractice.
--   Teams will be eliminated from the event if they are charged under malpractice.
+1.	3 members in a team.
+2.	Every team should have their own unique team’s name.
+3.	This is a Single Round event.
+4.	Reporting place and time for the event and for spot registration.
+  - Place: Main Checkpoint (CYBER LAB) 
+  - Time: 09:30 AM Sharp.
+5.	Only Single user registration, team members will be decided before the event starts.
+6.	Participants can come along with their teammates and decide their teams
+7.	Code of Conduct will be issued to all the teams during the event. 
+8.	Violating the Code of Conduct will be charged under malpractice.
+9.	Teams will be eliminated from the event if they are charged under malpractice.
+10.	Prize for the Winners:
+•	1st place - ₹ 5000
+•	2nd place - ₹ 3000
+
+**ALERT: VIOLATIONS OF ANY RULES, INCLUDING ATTEMPTS TO MALPRACTICE AND MISBEHAVIOR TOWARDS VOLUNTEERS, WILL DISQUALIFY THE TEAM.**
+
