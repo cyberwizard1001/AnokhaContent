@@ -1,8 +1,6 @@
 # Code Father
 
-Get ready to show off your skills in the ultimate coding challenge! This event is the ultimate test of your UI design, competitive coding, and hardware knowledge abilities.
-
-You'll be pushed to the limit with challenging rounds that will have you creating stunning interfaces, solving complex coding problems, and using your hardware knowledge to create innovative solutions to real-world problems. The top performers in each round will be rewarded, and you'll walk away with valuable new skills and experiences to take your tech career to the next level. Don't miss out on the excitement - sign up now!
+Get ready to show off your skills in the ultimate coding challenge! This event is the ultimate test of your UI design, competitive coding, and hardware knowledge abilities. You'll be pushed to the limit with challenging rounds that will have you creating stunning interfaces, solving complex coding problems, and using your hardware knowledge to create innovative solutions to real-world problems. The top performers in each round will be rewarded, and you'll walk away with valuable new skills and experiences to take your tech career to the next level. Don't miss out on the excitement - sign up now!
 
 ### Instructions to Participants
 
