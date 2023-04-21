@@ -8,9 +8,26 @@ Whether you are a beginner or a seasoned professional, Xiomara CTF is an excelle
 
 ### Instructions to Participants
 
-- The competition is open to all individuals or a team of maximum 4 individuals. All participants must register before the deadline to compete and must provide accurate information.
-- The points will be given according to the difficulty level.
-- The solution flag has the fixed format.
-- All participants must agree to follow the rules and regulations set forth by the organizers. Cheating, exploiting vulnerabilities in the competition's infrastructure, or any other form of unethical behavior will result in disqualification.
-- Sharing of flags with the other teammates or collaborating in any way is strictly prohibited and leads to disqualification.
+### Event rules (offline):
+
+- The competition is open to all individuals or a team of maximum 4 members. All
+participants must register before the deadline to compete and must provide accurate
+information.
+
+- Only students from Indian Universities will be eligible for the cash prizes. Verification
+process will be conducted after the contest.
+
+- All questions will have dynamic scoring, ie: points reduce with increase in solves
+
+- The solution flag has a fixed format (ie: Xiomara{f4k3_fl4g})
+
+- All participants must agree to follow the rules and regulations set forth by the organizers. Cheating, exploiting vulnerabilities in the competition's infrastructure, or any other form of
+unethical behaviour will result in disqualification.
+
+- Sharing of flags with the other teammates or collaborating in any way is strictly prohibited
+and leads to disqualification.
+
 - The scores stored prior to any technical problem will be considered.
+
+- If there are any queries, participants can contact the problem setters / admins through
+discord. The invite link will be provided upon registration.
