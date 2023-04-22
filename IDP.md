@@ -15,17 +15,15 @@ In this hands-on challenge, you'll work with a team to tackle a real-world probl
 
 **_Round 1: Selection Round_**
 
-- The participants are supposed to submit the solutions for the two IDP problems asked and also a pdf based on the 3rd problem.
-- The problems for IDP will be shared online at least two weeks before the final event.
-- The participants are supposed to submit it as a Word document in the forms link that will be provided for registration.
-- Late submissions will not be accepted.
-- The selected teams will be called for the final round.
+- The participants are supposed to submit their solutions for the two IDP problems asked during the morning session of the event.
+- The groups can submit it as a word document. In the afternoon ,based on the abstract submitted, the selected teams will be called for the final round.
+
 
 **_Round 2: Finals_**
 
-- The teams will be provided with a particular industrial challenge.
-- 2 hours will be provided for solving the problem.
+- In the afternoon slot, the teams will be provided with a particular industrial challenge.
+- 1 hour will be provided for solving the problem.
 - The selection round questions must also be presented briefly along with the problem given on the spot.
-- The presentation can be done by either a single individual or a team.
+- The presentation can be done by either a single individual or a team.(PPT)
 - The presentation can be 5-10 minutes long (will be specified during the start of the final round).
-- Questions based on the presentation will be posed by the judges, which will also be taken into consideration.
+- Questions based on the presentation will be posed by the judges, whose answers will also be taken into consideration while judging .
