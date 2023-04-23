@@ -12,3 +12,7 @@ The game is closely linked to the traditional game of relay while also allowing 
 - **_Individual Tasks:_** Each member of the team must cross only 1 checkpoint and solve the math activity together with the team member standing at the checkpoint he/she reaches. There will be no member standing at the final checkpoint, when the person in checkpoint 2 reaches the final checkpoint, he/she will complete the event with help of all other team members.
 - **_Time Limit:_** The team that completes the relay in the shortest time will be declared the winner.
 - **_Disqualification:_** A team will be disqualified if any member is found cheating or violating the rules and regulations of the event.
+
+* Prize Money:
+    * First Place: Rs. 3000/-
+    * Second Place: Rs. 2000/-

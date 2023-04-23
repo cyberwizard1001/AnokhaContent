@@ -17,9 +17,11 @@ The clock is ticking, so gather your wits, put on your thinking cap, and get rea
 7.	Code of Conduct will be issued to all the teams during the event. 
 8.	Violating the Code of Conduct will be charged under malpractice.
 9.	Teams will be eliminated from the event if they are charged under malpractice.
-10.	Prize for the Winners:
-- 1st place - ₹ 5000
-- 2nd place - ₹ 3000
+
 
 **ALERT: VIOLATIONS OF ANY RULES, INCLUDING ATTEMPTS TO MALPRACTICE AND MISBEHAVIOR TOWARDS VOLUNTEERS, WILL DISQUALIFY THE TEAM.**
 
+* Prize Money:
+    * First Place: Rs. 5000/-
+    * Second Place: Rs. 3000/-
+    * Third Place: Rs. 2000/-

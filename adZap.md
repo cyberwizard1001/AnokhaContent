@@ -9,3 +9,8 @@ The theme on which the ad must be based will be given on the day of the competit
 -   Participants will be given the topic on the day of the competition (half an hour before the competition).   
 -   Based on the topic the students must make an ad.    
 -   The maximum duration of ad - 2 minutes.
+
+* Prize Money:
+    * First Place: Rs. 3000/-
+    * Second Place: Rs. 2500/-
+    * Third Place: Rs. 1000/-

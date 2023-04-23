@@ -13,3 +13,8 @@ And, to make things even more interesting, we've added an exciting treasure hunt
 - Any technical problems will be considered.
 - Each Round will be an Elimination Round. Students will be given tasks and shortlisted.
 - Working of each round will be explained by the organizers at the start of the round.
+
+* Prize Money:
+    * First Place: Rs. 5000/-
+    * Second Place: Rs. 3000/-
+    * Third Place: Rs. 2000/-

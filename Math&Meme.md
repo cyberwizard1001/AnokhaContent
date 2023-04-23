@@ -12,5 +12,6 @@ Are you someone who scrolls endlessly on your phones enjoying memes? Are you one
 - Plagiarism isn't allowed.
 
 * Prize Money:
-    * First Prize: Rs. 500/-
-    * Second Prize: Rs. 250/-
+    * First Place: Rs. 3000/-
+    * Second Place: Rs. 2000/-
+    * Third Place: Rs. 1000/-

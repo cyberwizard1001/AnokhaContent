@@ -14,3 +14,8 @@ This quiz will consist of only one round, where teams will gather in a computer 
 - Students have to code the answers and verify the test cases in the computer lab.
 - Each team will be given 1 system to work on.
 - For teams who do not have coding knowledge, they can write the algorithms in the sheet provided and submit them for evaluation.
+
+* Prize Money:
+    * First Place: Rs. 5000/-
+    * Second Place: Rs. 3000/-
+    * Third Place: Rs. 2000/-

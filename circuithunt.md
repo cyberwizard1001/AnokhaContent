@@ -4,10 +4,6 @@ Looking for an electrifying adventure that will out your circuitry skills to the
 
 With challenging puzzles of multiple complexities, you’ll need to flex your problem-solving muscles to debug and construct circuits to uncover hidden treasures! Come and experience this thrill, only at Circuit Hunt!
 
-## Event Prizes
-1st place - 3500
-2nd place - 2000
-
 ### Instructions to Participants
 
 - This event is a QR code-based treasure hunt, where the treasures are nothing but electrical circuits with varying complexities to solve, debug and construct.
@@ -24,3 +20,8 @@ With challenging puzzles of multiple complexities, you’ll need to flex your pr
 6. The questions can be of debugging a circuit, theory based, designing a circuit or can just be a pen and paper based.
 7. At the end of the stipulated time, the top 3 teams to acquire the maximum number of points wins the event
 8. All the questions will be in and around the concepts of electric circuits, op amps, diodes
+
+* Prize Money:
+    * First Place: Rs. 5000/-
+    * Second Place: Rs. 3000/-
+    * Third Place: Rs. 2000/-

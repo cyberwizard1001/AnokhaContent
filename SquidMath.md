@@ -6,3 +6,7 @@
 - Only registered participants are allowed.
 - Malpractices lead to elimination.
 - During any level of the game, usage of abusive language is prohibited.
+
+* Prize Money:
+    * First Place: Rs. 5000/-
+    * Second Place: Rs. 3000/-

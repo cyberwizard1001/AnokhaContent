@@ -14,3 +14,8 @@ With the given dataset, teams are expected to process and predict or classify fo
 6. Data Processing Round: A data exploration and model training challenge
 7. Participants will be given a dataset and asked to train a model to predict a target variable.
 8. The top 3 team with the highest accuracy model and best exploratory data analysis will be the ultimate winner
+
+* Prize Money:
+    * First Place: Rs. 4000/-
+    * Second Place: Rs. 2000/-
+    * Third Place: Rs. 1000/-

@@ -14,3 +14,8 @@ Create required views to display major features of the parts.
 * A detailed view of the parts must be created. 
 * All annotation styles must meet ISO standards. 
 * Dimensions should be placed using two decimal points.
+
+* Prize Money:
+    * First Place: Rs. 7500/-
+    * Second Place: Rs. 5000/-
+    * Third Place: Rs. 2500/-

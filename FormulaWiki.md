@@ -52,3 +52,8 @@ Whether you're a trivia buff or just looking for a fun way to test your knowledg
 **_Finals_**
 
 - The finals will consist of 6 (nominal) to 10 (in case of large turn up in prelims) teams of 2 participants each. In the finals, participants on the stage will be monitored by volunteers to ensure that they are not using any unfair means. Each of the rounds shall be different.
+
+* Prize Money:
+    * First Place: Rs. 5000/-
+    * Second Place: Rs. 3000/-
+    * Third Place: Rs. 2000/-

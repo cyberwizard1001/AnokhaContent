@@ -17,3 +17,8 @@ At this three-day event, you'll have the opportunity to design and test your own
 - Shape and size is completely dependent on the participants.
 
 - Bonus Round: Whoever makes a parafoil kite with cloth and flies it will be directly selected for round 3.
+
+* Prize Money:
+    * First Place: Rs. 2000/-
+    * Second Place: Rs. 1000/-
+    * Third Place: Rs. 500/-

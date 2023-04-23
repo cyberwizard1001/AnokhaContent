@@ -10,3 +10,7 @@ The Bid Battle event is designed to challenge strategic thinkers and creative pr
 * Day 2 : The teams must build the prototype using the components they bought from the auction. 
 * Depending on the team’s creativity, efficiency of the circuit, its output, and its closeness to the theme, the winner and runner ups will be decided. 
  
+* Prize Money:
+    * First Place: Rs. 5000/-
+    * Second Place: Rs. 3000/-
+    * Third Place: Rs. 2000/-

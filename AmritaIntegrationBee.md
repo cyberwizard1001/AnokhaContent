@@ -11,3 +11,7 @@ Come join us for a fun-filled day of thrilling math challenges and see who will 
 - Elimination Round Rules: Each department will nominate one representative from each year. For engineering departments, 1st – 3rd years only, and for integrated departments only 1st – 4th years.
 - Contestants have to solve a single integral to select the fastest 16 contestants for the Stage round.
 - Stage Round Rules: 2 contestants will solve an integral on stage per round, and the winner of each round will advance to the next round, until there is one winner.
+
+* Prize Money:
+    * First Place: Rs. 4000/-
+    * Second Place: Rs. 2000/-

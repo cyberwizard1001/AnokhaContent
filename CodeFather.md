@@ -11,3 +11,8 @@ Get ready to show off your skills in the ultimate coding challenge! This event i
 - The points will be given according to the difficulty level.
 - All participants must agree to follow the rules and regulations set forth by the organizers. Cheating, exploiting vulnerabilities in the competition's infrastructure, or any other form of unethical behavior will result in disqualification.
 - The scores stored prior to any technical problem will be considered.
+
+* Prize Money:
+    * First Place: Rs. 10000/-
+    * Second Place: Rs. 7500/-
+    * Third Place: Rs. 5000/-

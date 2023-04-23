@@ -13,3 +13,8 @@ It's time to experience the rush of launching your very own water rocket and see
 - There will be 3 rounds out of which round 1 and round 2 will both be evaluated on range, height and speed of the water rocket.
 - Top 10 teams will be shortlisted for Round 2 and out of those 5 would advance to the Round 3.
 - Rockets will be launched vertically in the final round and evaluation will be based on height.
+
+* Prize Money:
+    * First Place: Rs. 2000/-
+    * Second Place: Rs. 1000/-
+    * Third Place: Rs. 500/-

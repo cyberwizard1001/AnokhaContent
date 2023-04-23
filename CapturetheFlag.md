@@ -31,3 +31,8 @@ and leads to disqualification.
 
 - If there are any queries, participants can contact the problem setters / admins through
 discord. The invite link will be provided upon registration.
+
+* Prize Money:
+    * First Place: Rs. 10000/-
+    * Second Place: Rs. 7000/-
+    * Third Place: Rs. 5000/-
