@@ -27,3 +27,8 @@ In this hands-on challenge, you'll work with a team to tackle a real-world probl
 - The presentation can be done by either a single individual or a team.(PPT)
 - The presentation can be 5-10 minutes long (will be specified during the start of the final round).
 - Questions based on the presentation will be posed by the judges, whose answers will also be taken into consideration while judging .
+
+* Prize Money:
+    * First Place: Rs. 5000/-
+    * Second Place: Rs. 3000/-
+    * Third Place: Rs. 2000/-

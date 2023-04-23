@@ -27,3 +27,8 @@ With each puzzle solved, you'll unlock doors and move closer to your ultimate go
 - The two participants are expected to crack the codes to open the locks.
 - The bounds in the Escape Room will be informed during the event.
 - Two additional clues if required will be provided, as direct ones. Upon giving the additional clues, an additional two minutes for each clue will be added to the final time recorded.
+
+* Prize Money:
+    * First Place: Rs. 3000/-
+    * Second Place: Rs. 2000/-
+    * Third Place: Rs. 1000/-

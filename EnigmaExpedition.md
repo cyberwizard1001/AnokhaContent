@@ -1,6 +1,6 @@
 # Enigma Expedition
 
-Join us for an exciting and challenging event that will put your skills to the test! Our event comprises a series of thought-provoking puzzles and challenges designed to challenge your problem-solving abilities and test your overall reasoning aptitude.
+Join us for an exciting and challenging one -day event that will put your skills to the test! Enigma Expedition comprises of a series of thought-provoking puzzles and challenges designed to challenge your problem-solving abilities and test your overall reasoning aptitude.
 
 And, to make things even more interesting, we've added an exciting treasure hunt that will take you on a thrilling adventure throughout the event venue. So come ready to put your mind to the test and unlock the ultimate prize at the end of the hunt!
 
