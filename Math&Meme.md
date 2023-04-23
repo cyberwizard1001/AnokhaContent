@@ -10,3 +10,7 @@ Are you someone who scrolls endlessly on your phones enjoying memes? Are you one
 - The uploaded image should be in PNG/JPG format.
 - The Memes shouldn't contain any abusive language or inappropriate images.
 - Plagiarism isn't allowed.
+
+* Prize Money:
+    * First Prize: Rs. 500/-
+    * Second Prize: Rs. 250/-

@@ -1,37 +1,52 @@
 # Blockchain Hackathon
 ## Description
-Welcome to Blockathon, the 24-hour hackathon organized by the B-RIG Club of Amrita School of Engineering, Coimbatore. In this exciting event, participants will have the opportunity to explore the endless possibilities of blockchain in the domains of security, dapps, osint, forensics, and NFTs.
+Welcome to BlockCatalyst, the 24-hour hackathon organized by the B-RIG and WiCys of TIFAC-CORE in Cyber Security, Amrita Vishwa Vidyapeetham, Coimbatore. In this exciting event, participants will have the opportunity to explore the endless possibilities of blockchain in the domains of Security, DApps, NFTs, Forensics and OSInt.
 
-Blockathon is the ideal forum for showcasing your abilities and inventiveness, regardless of whether you are an experienced developer or are just getting started in the field of blockchain. You can experiment with innovative methods to apply blockchain technology to address practical issues and develop one-of-a-kind solutions that have the potential to transform the world. You will also have access to experienced mentors at Blockathon who can assist you while you construct your idea.
+BlockCatalyst is the ideal forum for showcasing your abilities and inventiveness, regardless of whether you are an experienced developer or are just getting started in the field of blockchain. You can experiment with innovative methods to apply blockchain technology to address practical issues and develop one-of-a-kind solution that have the potential to transform the world. You will also have access to experienced mentors at BlockCatalyst who can assist you while you construct your idea.
 
-So, what are you waiting for? Join us at Blockathon and truly immerse yourself in the ever-explanding field of blockchain technology. With 24 hours of non-stop hacking, you never know what amazing project you'll be able to create!
+So, what are you waiting for? Join us at BlockCatalyst and truly immerse yourself in the ever-expanding field of blockchain technology. With 24 hours of non-stop hacking, you never know what amazing project you'll be able to create!
 
 ---
 ## Rules and Regulations
--   A team shall be a maximum of 4 people. It is recommended to have at least one female student as a part of your team.    
--   A complete women’s team will have a special track.
--   All teams must have a Team name, and a Team Leader and a Mentor.    
--   The teams are not allowed to discuss their solution with other teams participating.    
--   Teams should be made up exclusively of students who are not organizers, volunteers, judges, sponsors, or in any other privileged position at the event.    
--   All team members shall be present at the event venue during the Hackathon and are not allowed to leave the venue for any reason except mentioned in Break Rules.    
--   Teams shall discuss and get advice & support from organizers, and jury members.
--   All work on your project should be done during the hackathon.    
--   Teams shall work on the ideas that they have proposed during the Idea Submission Phase.    
--   Teams shall use existing libraries, frameworks, or open-source projects in their idea implementation.    
--   Teams must stop working once the time is up. However, teams are allowed to debug and make small fixes to their programs after time is up. e.g. During the presentation of your demo, if you find a bug that breaks your application and the fix is only a few lines of code, it’s okay to fix that. Making large changes or adding new features is not allowed.    
--   You must treat all team members, fellow teams, juries, coaches, and volunteers with due respect and courtesy, abiding by the hackathon guidelines.
--   Teams can be disqualified from the competition at the organizers’ discretion. Reasons might include but are not limited to breaking the Competition Rules, behaving in a way that violates the or other unsporting behaviour.    
+-   A team shall be a maximum of 4 people. It is recommended to have at least one female student as a part of your team. [For additional perks]
 
-The hackathon will be conducted in Two Phases    
--   **Idea Submission Phase (Online):** The teams shall submit their proposed idea in the given template. The students will have to submit their solutions to the respective problem. The best solutions will be short-listed for the second round. The deadline of the idea submission will 25th april.   
--   **Idea Implementation Phase (Offline):** The teams shall work for continuous 24 hours in the given work area in Amrita Vishwa Vidyapeetham, Coimbatore Campus. The implementation of the proposed idea shall be worked upon and finally, a demo will be presented to the jury panel.    
--   **Platform** - Ethereum / Hyperledger Fabric
--   Duration - 24-hour    
--   Themes:   
-	1.  NFT - Problem Statement?
-	2.  DApps 
-	3.  Security and Forensics
-	4.  OSINT
-	5.  Metaverse
-	6.  Women-Related Topics
-   -   Break Rules: Participants are allowed to leave the venue for Restroom breaks, food breaks and in case of any emergency.
+* All teams must have a Team name, and a Team Leader and having a Mentor is optional.
+
+* The teams are not allowed to discuss their solution with other teams participating.
+
+* Teams should be made up exclusively of students who are not organizers, volunteers, judges, sponsors, or in any other privileged position at the event.
+
+* All team members shall be present at the event venue during the Hackathon and are not allowed to leave the venue for any reason except mentioned in Break Rules.
+
+* Teams shall discuss and get advice & support from organizers, and jury members.
+
+* Majority of the implementation on your project should be done only during the hackathon. Mentors will provide suggestions during their periodic visits which should also be included in the implementation.
+
+* Teams shall work on the ideas that they have proposed during the Idea Submission Phase.
+
+* Teams shall use existing libraries, frameworks, or open-source projects in their idea implementation.
+
+* Teams must stop working once the time is up. However, teams are allowed to debug and make small fixes to their programs after time is up. e.g. During the presentation of your demo, if you find a bug that breaks your application and the fix is only a few lines of code, it’s okay to fix that. Making large changes or adding new features is not allowed.
+
+* You must treat all team members, fellow teams, juries, coaches, and volunteers with due respect and courtesy, abiding by the hackathon guidelines.
+
+* Teams can be disqualified from the competition at the organizers’ discretion. Reasons might include but are not limited to breaking the Competition Rules, behaving in a way that violates the or other unsporting behaviour.   
+
+* The hackathon will be conducted in Two Phases    
+    * **Idea Submission Phase (Online):** The teams shall submit their proposed idea in the given template. The students will have to submit their solutions to the respective problem. The best solutions will be short-listed for the second round. The deadline of the idea submission will 25th april. 
+	
+	- **Idea Implementation Phase (Offline):** The teams shall work for continuous 24 hours in the given work area in Amrita Vishwa Vidyapeetham, Coimbatore Campus. The implementation of the proposed idea shall be worked upon and finally, a demo will be presented to the jury panel.    
+*   **Platform** - Ethereum / Hyperledger Fabric
+*   Duration - 24-hour    
+* Themes:
+    * NFT
+    * DApps
+    * Security
+    * OSINT & Forensics
+    * Women Safety
+
+* Break Rules:
+    * Participants are allowed to leave the venue for Restroom breaks.
+	* Participants shall be allowed for food breaks.
+	* Participants will be assisted in case of any medical emergencies.
+	* In case of any personal emergencies, the participants are allowed to leave after informing the respective organizers.
