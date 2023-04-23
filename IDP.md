@@ -29,5 +29,5 @@ In this hands-on challenge, you'll work with a team to tackle a real-world probl
 - Questions based on the presentation will be posed by the judges, whose answers will also be taken into consideration while judging .
 
 ## Event Prizes 
-1st place - 3500
-2nd place - 2000
+- 1st place - 3500
+- 2nd place - 2000
