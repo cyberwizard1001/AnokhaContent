@@ -17,10 +17,10 @@ Individual Event
 Entry Fee: Rs. 50/-
 
 ## Event Days: 
-Day 1 (2 pm)
-Day 2 (9 am to 4 pm)
-Day 3 (9 am to 4 pm)
-Conducted by: Mathematics Department
+- Day 1 (2 pm)
+- Day 2 (9 am to 4 pm)
+- Day 3 (9 am to 4 pm)
+- Conducted by: Mathematics Department
 
 ## Event rules:
 - The competition is purely based on Squid Game.
