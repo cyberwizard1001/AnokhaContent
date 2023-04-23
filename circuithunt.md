@@ -4,6 +4,10 @@ Looking for an electrifying adventure that will out your circuitry skills to the
 
 With challenging puzzles of multiple complexities, you’ll need to flex your problem-solving muscles to debug and construct circuits to uncover hidden treasures! Come and experience this thrill, only at Circuit Hunt!
 
+## Event Prizes
+1st place - 3500
+2nd place - 2000
+
 ### Instructions to Participants
 
 - This event is a QR code-based treasure hunt, where the treasures are nothing but electrical circuits with varying complexities to solve, debug and construct.
