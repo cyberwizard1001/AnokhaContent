@@ -10,3 +10,7 @@ But Prashna isn't just about testing your knowledge, it's also about having a gr
 - There will be 2 quizzes - School quiz and an Open quiz.
 - The quiz will have a preliminary round and a final round. The final will have 4 rounds.
 - Usage of Google, ChatGPT and other online resources for procuring information is strictly condemned.
+
+* Prize Money:
+    * First Prize: Rs. 7000/-
+    * Second Prize: Rs. 3500/-

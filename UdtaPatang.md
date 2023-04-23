@@ -2,7 +2,7 @@
 
 Do you dream of soaring through the sky like a bird? Then join the Aerospace Department for our Udta Pathang event and tune into the electric feeling of tugging the Manza and manoeuvring your own self-built kite. Let’s make the skies look like the harvest festivals have come again!
 
-At the event, you'll have the opportunity to design and test your own handmade aircrafts, including kites, gliders, and parachutes. Unleash your inner engineer and learn how to navigate the wind with ease. These exciting days of crafting and aviation expertise are not to be missed. Register now for the DIY Aircrafts event and let's take flight together!
+At this three-day event, you'll have the opportunity to design and test your own handmade aircrafts, including kites, gliders, and parachutes. Unleash your inner engineer and learn how to navigate the wind with ease. These exciting days of crafting and aviation expertise are not to be missed. Register now for the DIY Aircrafts event and let's take flight together!
 
 ### Instructions to Participants
 
