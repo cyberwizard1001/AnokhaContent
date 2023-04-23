@@ -26,3 +26,7 @@ The event will be a thrilling experience as participants will get to put their c
 - Bridges must be safe to test - any bridges that appear unsafe or unstable may be disqualified prior to testing.
 - Judges reserve the right to disqualify any team or bridge that does not comply with the rules or is deemed unsafe.
 - Participation of members other than team members will lead to disqualification.
+
+## Event prize
+- 1st place - 3000
+- 2nd place - 2000
